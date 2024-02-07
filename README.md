@@ -127,7 +127,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [krea](https://www.krea.ai/apps/image/realtime)
 - [framer](https://www.framer.com/)
 - [Don't F*** With Paste](https://chromewebstore.google.com/detail/nkgllhigpcljnhoakjkgaieabnkmgdkb) - Helps copy pasting text where the feature is blocked
-- [Auto Login](https://chromewebstore.google.com/detail/auto-login/kjdgohfkopafhjmmlbojhaabfpndllgk)
+- [Auto Login](https://chromewebstore.google.com/detail/auto-login/kjdgohfkopafhjmmlbojhaabfpndllgk) - save your time by automatically typing passwords
 
 ## Games
 - [Repack games](https://repack-games.com/)
